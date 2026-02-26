@@ -2,6 +2,8 @@
 
 - For English users, please install the original Nomifactory CEu and install Cleamroom manually
 - [Click here](https://github.com/Nomi-CEu/Nomi-CEu/wiki/Page-1:-Player-Information#21-installation-setup)for official installing guide
+
+ - README.md仍在装修，但安装步骤可以作为参考
 ## 注意
 - 您需要正版账户才能加入服务器
 - 您无需手动下载该仓库的.zip文件
