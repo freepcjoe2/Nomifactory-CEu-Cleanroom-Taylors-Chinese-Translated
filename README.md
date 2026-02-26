@@ -4,6 +4,8 @@
 - [Click here](https://github.com/Nomi-CEu/Nomi-CEu/wiki/Page-1:-Player-Information#21-installation-setup)for official installing guide
 
  - README.md仍在装修，但安装步骤可以作为参考
+ - [服务器Discord](https://discord.gg/Xw6RH43b)点此寻找服主
+ 
 ## 注意
 - 您需要正版账户才能加入服务器
 - 您无需手动下载该仓库的.zip文件
@@ -22,7 +24,7 @@
     - 配置服务器列表中地址为:(已默认设置)
     - `nomi.united-taylors.org`
 
-    - 服务器不定时启动，具体详情请在[这里](https://nomi.united-taylors.org/server)查看服务器开启状态或[官方Discord](https://discord.gg/Xw6RH43b)
+    - 服务器不定时启动，具体详情请在[这里](https://nomi.united-taylors.org/server)查看服务器开启状态或[服务器Discord](https://discord.gg/Xw6RH43b)
 
 ## 概述
 本仓库为 [Nomifactory CEu](https://github.com/Nomi-CEu) 的定制版本，该版本安装了汉化及[Cleanroom](https://github.com/CleanroomMC/Cleanroom)
