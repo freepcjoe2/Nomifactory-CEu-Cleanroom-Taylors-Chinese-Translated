@@ -1,4 +1,4 @@
-# Nomifactory-CEu-Cleanroom-Taylors-Chinese-Translated
+# Nomifactory CEu -Taylors汉化优化版
 
 For English users, please install the original Nomifactory CEu and install Cleamroom manually
 [Click here](https://github.com/Nomi-CEu/Nomi-CEu/wiki/Page-1:-Player-Information#21-installation-setup)for official installing guide
