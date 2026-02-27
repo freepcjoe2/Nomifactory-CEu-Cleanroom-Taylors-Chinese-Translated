@@ -1,4 +1,4 @@
-#项目已废弃
+# 项目已废弃
 
 ## Nomifactory CEu -Taylors汉化优化版
 
